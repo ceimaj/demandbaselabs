@@ -3,8 +3,8 @@ This basic HTML file demonstrates how to use the [Demandbase JavaScript SDK](htt
 
 There are two ways to use Demandbase within Optimizely.
 
-1. Trigger an Optimizely Experiment based on a Demandbase Segment
-2. Place a visitor in an Optimizely Visitor Segment based on a Demandbase Segment
+1. Place a visitor in an Optimizely Visitor Segment based on a Demandbase Segment
+2. Trigger an Optimizely Experiment based on a Demandbase Segment
 
 #Prerequisites
 1. Install the Optimizely tracking code as instructed in the 'Implementation' tab in Optimizely
